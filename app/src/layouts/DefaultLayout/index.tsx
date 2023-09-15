@@ -9,7 +9,7 @@ export function DefaultLayout() {
       <LayoutContainer>
         <Header />
 
-        {/* É um espaço para ser inserido um conteúdo*/}
+        {/* Outlet equals to {children} */}
         <Outlet />
       </LayoutContainer>
     </div>

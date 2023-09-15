@@ -1,4 +1,4 @@
-//! FILE.D.TS significa que dentro do arquivo só terá código deDEFINIÇÃO DE TIPOS DO TYPESCRIPT
+//! FILE.D.TS significa que dentro do arquivo só terá código de DEFINIÇÃO DE TIPOS DO TYPESCRIPT
 //* esse arquivo nunca poderá ter código javascript, somente definição de tipagem
 
 // Aula 1 - Estrutura da aplicação - Tipagem de temas
